@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Content Dashboard",
-  description: "Google Sheets Content Analytics Dashboard",
+  title: "Master Dashboard",
+  description: "Word Count Analytics Dashboard",
 };
 
 export default function RootLayout({ children }) {
